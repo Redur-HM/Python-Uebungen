@@ -1,12 +1,10 @@
-Willkommen auf meinem GitHub-Profil!
+# Python-Uebungen
 
-Zurzeit mache ich eine Umschulung zum Fachinformatiker für Anwendungsentwicklung in NRW.
+Hier sammle ich meine Python-Übungen und Lösungen aus meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung.
 
-Dabei lerne ich Programmieren und arbeite besonders zurzeit mit: Python C# SQL.
+Die Aufgaben sind nach Lernphase und Thema sortiert:
 
-Hier sammle ich meine Python- und C#-Übungen, Programme und eigenen Lösungen aus der Umschulung.
+- **Vorkurs** – Übungen aus dem Vorbereitungskurs
+- **Basics** – Grundlagenübungen zu Bedingungen und Arrays
 
-Die meisten Codes sind von mir selbst geschrieben. Codes und Beispiele von anderen Personen sind in den Kommentaren gekennzeichnet.
-
-Viel Spaß beim Stöbern und Entdecken!
-R.HM
+Die meisten Lösungen habe ich selbst geschrieben. Ergänzungen oder Beispiele aus dem Unterricht sind, soweit vorhanden, in den Kommentaren gekennzeichnet.
